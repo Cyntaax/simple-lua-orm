@@ -7,6 +7,10 @@ This seemed to work well with MessagePack for me, so you'll be able to send the 
 
 More advanced things will be added as time goes on like auto migration and such, but this works for now!
 
+### Dependencies
+
+- [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+
 #### Usage
 
 ```
